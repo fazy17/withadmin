@@ -1,0 +1,51 @@
+body {
+	min-width: 600px;
+}
+.image { 
+	padding-top: 92px;
+	text-align: center;
+ }
+ h1 {
+ 	margin: 0 auto;
+ 	padding-bottom: 23px;
+ 	text-align: center;
+ 	color: #000000;
+	font-family: "Yandex Sans Text";
+	font-size: 48px;
+	font-weight: 300;
+ }
+ .descr {
+ 	margin-bottom: 27px;
+ 	text-align: center;
+ 	color: #000000;
+	font-family: "Yandex Sans Text";
+	font-size: 30px;
+	font-weight: 300;
+ }
+ .timer {
+ 	text-align: center;
+ 	color: #000000;
+	font-family: "Yandex Sans Text";
+	font-size: 36px;
+	font-weight: 400;
+ }
+ button {
+ 	border-radius: 42px;
+	border: 2px solid #000000;
+	color: #000000;
+	font-family: "Yandex Sans Text";
+	font-size: 30px;
+	font-weight: 300;
+	outline: none;
+	background: transparent;
+	cursor: pointer;
+	padding: 23px 102px;
+ }
+ button:hover {
+ 	color: #cc0099;
+ 	border: 2px solid #cc0099;
+ }
+ .button {
+ 	text-align: center;
+ 	padding-top: 21px;
+ }
